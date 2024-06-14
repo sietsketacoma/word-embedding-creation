@@ -7,7 +7,7 @@ The code in this project is used to read text and create a file with the word em
 For the creation of virtual environments (VE) anaconda is used. You can download anaconda via here: 
 https://www.anaconda.com/distribution/
 
-After installing anaconda into your system follow the steps bellow to work in a virtual environment.
+After installing anaconda into your system follow the steps below to work in a virtual environment.
 
 Creation of the VE:
 ```
